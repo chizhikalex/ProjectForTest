@@ -43,7 +43,7 @@ class ItemsDetailActivity : AppCompatActivity() {
             true
         }
         z = Handler{
-            Log.e("TTTTTTTTTTT","z")
+            Log.e("TTTTTTTЕTTTT","z")
             true
         }
 
